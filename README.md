@@ -2,7 +2,9 @@
 here i store my daily progression with coding in python
 
 DAY1:
+
   1.print multiples
+  
   2.factorial finding
   3.creating dictionary of squares
   4.list tuples creating
